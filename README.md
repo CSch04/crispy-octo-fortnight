@@ -8,4 +8,6 @@ Diese Datei soll regelmäßig ergänzt werden.
 
 |AufgabenNr.    | Beschreibung  |
 |---------------|----------------------------|
+| #1  | Anlegen des Projektes  |
+| #2  | Bearbeiten der Readme-Datei |
 
