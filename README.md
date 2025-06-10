@@ -10,4 +10,6 @@ Diese Datei soll regelmäßig ergänzt werden.
 |---------------|----------------------------|
 | #1  | Anlegen des Projektes  |
 | #2  | Bearbeiten der Readme-Datei |
+| #3  | Verändern der Datei |
+
 
